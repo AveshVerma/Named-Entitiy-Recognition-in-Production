@@ -1,6 +1,6 @@
 # Name-Entity-Recognition
 
-
+Prodigy is a paid Annotator Tool that uses AI and other advanced Techniques to annotate texts.
 ## Workflows
 
  - constants
